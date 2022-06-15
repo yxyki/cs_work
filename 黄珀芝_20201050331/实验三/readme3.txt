@@ -1,0 +1,1 @@
+这次作业redame3的代码实现了通过Bresenham中点、改进Bresenham算法生成直线段。
